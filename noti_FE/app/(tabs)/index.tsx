@@ -99,7 +99,7 @@ export default function HomeScreen() {
       // const projectId =
       // Constants?.expoConfig?.extra?.eas?.projectId ??
       // Constants?.easConfig?.projectId;
-      const projectId = "cdec29c6-04a5-48aa-a094-cf8292510d40";
+      const projectId = "9fe217ab-9592-40b2-8fcd-516a6e775572";
 
       const expoTokenData = await Notifications.getExpoPushTokenAsync({
         projectId,
