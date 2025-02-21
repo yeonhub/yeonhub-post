@@ -27,5 +27,13 @@
 ## notification
 | 구분 📁      | 링크 🔗                                                                                     |
 |-----------|------------------------------------------------------------------------------------------|
-| Branch    | [google map 예제](https://github.com/yeonhub/yeonhub-post/tree/noti)                     |
+| Branch    | [notification 예제](https://github.com/yeonhub/yeonhub-post/tree/noti)                     |
 | Posting   | [React Native Expo FCM 푸시 알림 설정](https://nonmajor-be-developer.tistory.com/entry/React-Native-Expo-FCM-%ED%91%B8%EC%8B%9C-%EC%95%8C%EB%A6%BC-%EC%84%A4%EC%A0%95) <br> [Expo Node.js FCM 푸시 알림 보내기](https://nonmajor-be-developer.tistory.com/entry/Expo-Nodejs-FCM-%ED%91%B8%EC%8B%9C-%EC%95%8C%EB%A6%BC-%EB%B3%B4%EB%82%B4%EA%B8%B0) |
+
+---
+
+## firebase analytics cli
+| 구분 📁      | 링크 🔗                                                                                     |
+|-----------|------------------------------------------------------------------------------------------|
+| Branch    | [firebase analytics 예제](https://github.com/yeonhub/yeonhub-post/tree/analytics-cli)                     |
+| Posting   | [React Native Firebase Analytics 추가 하기](https://nonmajor-be-developer.tistory.com/entry/React-Native-Firebase-Analytics-%EC%B6%94%EA%B0%80-%ED%95%98%EA%B8%B0) |
