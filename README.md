@@ -37,3 +37,11 @@
 |-----------|------------------------------------------------------------------------------------------|
 | Branch    | [firebase analytics 예제](https://github.com/yeonhub/yeonhub-post/tree/analytics-cli)                     |
 | Posting   | [React Native Firebase Analytics 추가 하기](https://nonmajor-be-developer.tistory.com/entry/React-Native-Firebase-Analytics-%EC%B6%94%EA%B0%80-%ED%95%98%EA%B8%B0) |
+
+---
+
+## firebase analytics expo
+| 구분 📁      | 링크 🔗                                                                                     |
+|-----------|------------------------------------------------------------------------------------------|
+| Branch    | [firebase analytics expo 예제](https://github.com/yeonhub/yeonhub-post/tree/analytics-expo)                     |
+| Posting   | [React Native Expo Firebase Analytics 추가 하기](https://nonmajor-be-developer.tistory.com/entry/React-Native-Expo-Firebase-Analytics-%EC%B6%94%EA%B0%80-%ED%95%98%EA%B8%B0) |
